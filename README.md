@@ -23,7 +23,7 @@ $ docker-compose -p mailu up -d
 
 
 #### Администрирование
-https://mail.alexander89116.me/admin/ui/user/settings\
+https://mail.alexander89116.me/admin
 
 Логин: admin@alexander89116.me
 
