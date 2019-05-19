@@ -1,0 +1,15 @@
+language: python
+python:
+  - "3.6.6"
+pip:
+  - "18.1"
+install:
+  - pip install -r requirements.txt
+script: pytest -v
+notifications:
+  email:
+    recipients:
+    - progame49@gmail.com
+    - alexander891@yandex.ru
+    on_success: always
+    on_failure: always
